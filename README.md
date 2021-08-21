@@ -1,7 +1,7 @@
 # Dante socks proxy server
 
-[![pipeline status](https://gitlab.com/akmaslov/dante-proxy-server/badges/master/pipeline.svg)](https://gitlab.com/akmaslov/dante-proxy-server/commits/master)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/akmaslov-dev/dante-proxy-server/blob/master/LICENSE.txt)
+[![pipeline status](https://gitlab.com/SageSBR/dante-proxy-server/badges/master/pipeline.svg)](https://gitlab.com/SageSBR/dante-proxy-server/commits/master)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SageSBR/dante-proxy-server/blob/master/LICENSE.txt)
 
 ## Main Info
 
@@ -9,7 +9,7 @@ Scripts for automated `dante socks proxy server` installation
 
 Versatile setup script for `Ubuntu`, `Debian` and `CentOS` releases
 
-Dante socks proxy server version - `1.4.2`
+Dante socks proxy server version - `1.4.3`
 
 Official Dante proxy server page - <https://www.inet.no/dante/>
 
@@ -20,7 +20,7 @@ ____
 Run this code in your terminal and follow the instructions:
 
 ```bash
-wget https://git.io/Je81F -O install.sh && bash install.sh
+wget https://raw.githubusercontent.com/SageSBR/dante-proxy-server/master/install.sh -O install.sh && bash install.sh
 ```
 
 or clone this project at first and then:
